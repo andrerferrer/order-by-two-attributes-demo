@@ -12,8 +12,11 @@ We will write a query to filter Meetings by the `Date` of the Availability first
 
 e.g.
 if we had three Meetings: 
+
 1st - scheduled on the 25th of September at 13h
+
 2nd - scheduled on the 25th of September at 12h
+
 3rd - scheduled on the 24th of September at 18h
 
 The correct order would be: [3, 2, 1]
