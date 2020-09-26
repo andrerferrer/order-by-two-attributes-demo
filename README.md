@@ -25,6 +25,8 @@ Like this:
 `Meeting.joins(:availability).order('date ASC, time')`
 
 [If you want to know more, check this.](https://learnsql.com/cookbook/how-to-order-by-two-columns-in-sql/)
+[And this](https://stackoverflow.com/questions/15628277/sql-order-by-multiple-columns)
+[Also this](https://www.sqlservertutorial.net/sql-server-basics/sql-server-order-by/)
 
 ## If you want to test it out
 
